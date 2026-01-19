@@ -1,0 +1,6 @@
+#Exclude
+plots/
+processed_data/
+data/
+elmo_model/
+ELMoForManyLangs/
